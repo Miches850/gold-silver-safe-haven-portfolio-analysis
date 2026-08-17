@@ -1,0 +1,12 @@
+Gold & Silver replacement GitHub data inputs
+
+README.md: 0.00 MB
+equity_indexes.csv: 0.45 MB
+gold_prices.csv: 0.51 MB
+silver_prices.csv: 0.62 MB
+treasury_yields.csv: 0.99 MB
+
+Rows exported — gold: 7,237
+Rows exported — silver: 7,237
+Rows exported — treasuries: 7,885
+Rows exported — indexes: 7,656
