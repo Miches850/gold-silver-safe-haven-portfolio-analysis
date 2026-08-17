@@ -1,2 +1,34 @@
-# gold-silver-safe-haven-portfolio-analysis
-R-based financial-economics capstone comparing gold and silver as safe-haven assets across crises and regions using drawdowns, rolling risk metrics, portfolio optimization, and dynamic allocations.
+# Figures
+
+Figures extracted directly from the submitted final-report PDF.
+
+- `figure_01.png` — United States: S&P 500 Total Annual Returns (yes)
+- `figure_02.png` — United States: SPX Drawdowns with Gold and Silver (Indexed) (yes)
+- `figure_03.png` — United States: Normalized Gold, Silver, Equities, and Treasury Yields (2000-2025) (yes)
+- `figure_04.png` — Global: 10-Year and 30-Year Treasury Yields Across All Regions (1995-2025) (yes)
+- `figure_05.png` — Europe and Japan: Gold and Silver (Normalized) (yes)
+- `figure_06.png` — Global: Normalized Equity Index Levels (1995 = 100) (yes)
+- `figure_07.png` — United States: Rolling 12-Month Drawdowns in S&P 500 with Metal Overlays (yes)
+- `figure_08.png` — United States: Gold & Silver Volatility vs. S&P 500 Volatility (yes)
+- `figure_09.png` — Normalized Gold Prices by Region (1995-2025) (yes)
+- `figure_10.png` — Normalized Silver Prices by Region (1995-2025) (yes)
+- `figure_11.png` — United States Rolling 52-Week Minimum-Variance Portfolio Weights (yes)
+- `figure_12.png` — United States Rolling 8-Week Smoothed Minimum-Variance Portfolio Weights (yes)
+- `figure_13.png` — Europe Rolling 8-Week Smoothed Minimum-Variance Portfolio Weights (yes)
+- `figure_14.png` — Japan Rolling 8-Week Smoothed Minimum-Variance Portfolio Weights (yes)
+- `figure_15.png` — United Kingdom Rolling 8-Week Smoothed Minimum-Variance Portfolio Weights (yes)
+- `figure_16.png` — United States Cumulative Wealth of Key Portfolios (yes)
+- `figure_17.png` — United States Drawdowns: Minimum-Variance vs. S&P 500 (yes)
+- `figure_18.png` — United States Rolling vs. Static Portfolio Wealth Paths (yes)
+- `figure_19.png` — United States: Portfolio Full-Sample Sharpe Ratios (yes)
+- `figure_20.png` — United States: Sharpe Ratios - Crisis vs. Control (yes)
+- `figure_21.png` — United States: Annualized Returns - Crisis vs. Control (yes)
+- `figure_22.png` — United States: Optimal Portfolio Weights (Weekly Data) (yes)
+- `figure_23.png` — United States: Minimum-Variance Portfolio Weights - Crisis vs. Control (yes)
+- `figure_24.png` — United States: Efficient Frontier - Weekly Returns, Annualized (yes)
+- `figure_25.png` — United States: Crisis-Specific Minimum-Variance Portfolio Weights (yes)
+- `figure_26.png` — Regional Efficient Frontier - Median Points (yes)
+- `figure_27.png` — Regional Dynamic vs. Static Portfolios - Sharpe Comparison (yes)
+- `figure_28.png` — Japan Regional Frontier - Minimum Variance to Maximum Return (yes)
+- `figure_29.png` — United Kingdom Regional Frontier - Minimum Variance to Maximum Return (yes)
+- `figure_30.png` — Europe Regional Frontier - Minimum Variance to Maximum Return (yes)
